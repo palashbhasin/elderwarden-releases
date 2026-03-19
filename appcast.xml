@@ -7,15 +7,29 @@
         <language>en</language>
 
         <item>
-            <title>Version 1.4.0</title>
+            <title>Version 1.4.2</title>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/palashbhasin/elderwarden-releases/releases/download/v1.4.2/ElderWarden.dmg"
+                sparkle:version="16"
+                sparkle:shortVersionString="1.4.2"
+                length="3079176"
+                type="application/octet-stream"
+                sparkle:edSignature="dxPKaJRMgJBIMtvBpichMx2vf1DWsN45zAuMif+aVF0IHheaa99wABgkfQUgBpmk/ALTZ5j/EFZliwwLrYLvAA=="
+            />
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
+            <title>Version 1.4.1</title>
             <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
             <enclosure
-                url="https://github.com/palashbhasin/elderwarden-releases/releases/download/v1.4.0/ElderWarden.dmg"
-                sparkle:version="14"
-                sparkle:shortVersionString="1.4.0"
-                length="3077936"
+                url="https://github.com/palashbhasin/elderwarden-releases/releases/download/v1.4.1/ElderWarden.dmg"
+                sparkle:version="15"
+                sparkle:shortVersionString="1.4.1"
+                length="3081331"
                 type="application/octet-stream"
-                sparkle:edSignature="0vz/hgFXv3zUz1AGngxALIIkswt8gKML2un6MFOu0EJ0Y6P2AT3mJ0br3HykzomrIJjHp+MnE+cVSoxFbnx3Dw=="
+                sparkle:edSignature="/0gyWXlh7gj7VSTeaJxtA9fl7AmI99k8qRBaoI8BIi79O1nBsPKAhVXR//OHr8fs1fLMIUfTlYb2KBIYXxnrDg=="
             />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
