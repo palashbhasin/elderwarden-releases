@@ -7,6 +7,20 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.5.0</title>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/palashbhasin/elderwarden-releases/releases/download/v1.5.0/ElderWarden.dmg"
+                sparkle:version="17"
+                sparkle:shortVersionString="1.5.0"
+                length="3145199"
+                type="application/octet-stream"
+                sparkle:edSignature="pZ2HDf3n6cF/SMkjmZbIVFJUBnIzCKAy0th80bq1Zx3LrMSy4NFGxPoqHDuyIU2ruh5vM+jI37vqS1990MouDg=="
+            />
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.4.2</title>
             <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
             <enclosure
